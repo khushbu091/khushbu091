@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushbu Patel</h1>
 <h3 align="center">A Passionate Python Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b1/b6/d3/b1b6d3339eb2f01930edaa8f1a068108.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
 - 🔭 I’m currently working on [reddyanna project](https://www.reddyannaoffiicial.in/)

@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-- 🔭 I’m currently working on [reddyanna project](https://www.reddyannaoffiicial.in/)
+
 
 - 🌱 I’m currently learning **Node.js ,MySql**
 
